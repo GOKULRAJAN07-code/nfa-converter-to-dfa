@@ -1,0 +1,5 @@
+{
+  "name": "Epsilon-NFA to DFA Converter",
+  "description": "A sophisticated tool for converting Nondeterministic Finite Automata with epsilon transitions into Deterministic Finite Automata, featuring step-by-step visualization and AI-powered explanations.",
+  "requestFramePermissions": []
+}
